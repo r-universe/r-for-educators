@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "flair",
+    "oncran": true
+  }
+]
